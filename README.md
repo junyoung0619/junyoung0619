@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![준영's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung0619)](https://github.com/anuraghazra/github-readme-stats)
+[![준영's GitHub stats](https://github-readme-stats.vercel.app/api?username=junyoung0619&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 **junyoung0619/junyoung0619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
